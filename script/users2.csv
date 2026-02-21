@@ -1,0 +1,4 @@
+﻿FirstName,LastName,Username,OU
+Alice,Walker,awalker,OU=Users,DC=lab,DC=local
+Ben,Johnson,bjohnson,OU=Users,DC=lab,DC=local
+Carla,Smith,csmith,OU=Users,DC=lab,DC=local
